@@ -1,0 +1,11 @@
+.container {
+    display: grid;
+    grid-template-columns: 40% 40%;
+    justify-content: space-around;
+}
+.demo1 {
+    background: rgba(255, 213, 70, 0.4);
+}
+.demo2 {
+    background: rgba(138, 70, 255, 0.4);
+}
